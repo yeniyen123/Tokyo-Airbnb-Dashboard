@@ -22,9 +22,9 @@ This Tableau dashboard analyzes real 2022 Airbnb data for Tokyo (sourced from Ka
 - Interpreted patterns and insights to provide actionable recommendations for potential hosts.
 
 ## Dashboard and Insights
-![Tokyo Airbnb 2022 Dashboard Screenshot](https://github.com/user-attachments/assets/a8a3fb2a-c328-4e3b-87d6-5cb1caaa5aaa)
+![Tokyo Airbnb 2022 Dashboard Screenshot](https://github.com/user-attachments/assets/e8fe5621-db72-4600-aefc-846d15970cb3)
 
--<a href="https://public.tableau.com/app/profile/julienne.beatrice.bobadilla/viz/TokyoAirbnb2022Dashboard/Dashboard1?publish=yes">Link to Tableau Public Dashboard</a>
+<a href="https://public.tableau.com/app/profile/julienne.beatrice.bobadilla/viz/TokyoAirbnb2022Dashboard/Dashboard1?publish=yes">Link to Tableau Public Dashboard</a>
 - Shinjuku-ku has the highest number of listings, indicating strong supply and competition, followed by Taito-ku.
 - Shinagawa-ku commands the highest average price (¥35,851), while Inagi-shi has the lowest (¥1,800). Shinjuku-ku, despite having the most listings, has an average price of ¥11,257.
 - Entire homes or apartments dominate the market (6,819 listings), with private rooms (2,477 listings) also popular.
